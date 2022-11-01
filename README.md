@@ -24,7 +24,7 @@ however, if you plan on using another static site generator, you can skip to the
 
 	a. Install the latest version of Ruby, with the dev-kit, from the [Ruby website](https://rubyinstaller.org/downloads/).
 	
-		Simply download and run the installer, but be sure to include the MSYS2 developement toolchain once you get to the following screen. ![Here](./readme-assets/ruby-installer.PNG)
+	Simply download and run the installer, but be sure to include the MSYS2 developement toolchain once you get to the following screen. ![Here](./readme-assets/ruby-installer.PNG)
 	
 	b. Install the latest version of RubyGems, and follow the instructions, from the [RubyGems website](https://rubygems.org/pages/download)
 	
