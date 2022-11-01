@@ -44,7 +44,7 @@ Now that you have Jekyll installed, you can use it to create websites from markd
 	```
 	c. The new directory created should look similar to this: 
 	
-	![Jekyll Directory](./readme-assets/init-jekyll-dir.png)
+	![Jekyll Directory](./readme-assets/init-jekyll-dir.PNG)
 	
 	Now you are able to run the website at any point by running the following command in the recently created directory:
 	```sh
@@ -86,10 +86,10 @@ Now that you've created the website, you just need to host it on Github Pages
 	- Note: The **_site** directory will only appear if you've ran the ```bundle exec jekyll serve``` command at least once.
 5. Copy everything from the **_site** directory and upload it to your Github repository and then commit your changes at the bottom of the page.
 6. Github will host your uploaded **index.html** on Github Pages shortly, once you refresh the page and no longer see Github trying to build and deploy your website...
-![Issues](./readme-assets/pages-issues.png)
+![Issues](./readme-assets/pages-issues.PNG)
 ...Your website can be accessed by heading the the URL: "[Github_Username].github.io"
 
-![Website GIF]()
+![Website GIF](./readme-assets/website.gif)
 
 
 ### More Resources
@@ -99,6 +99,8 @@ Now that you've created the website, you just need to host it on Github Pages
  - [Resources to change the theme of your website](https://jekyllrb.com/docs/themes/)
  
 ### Authors and Acknowledgements
+
+ - Nicke Manarin for the screen recording software, [ScreenToGif](https://github.com/NickeManarin/ScreenToGif).
 
 ### FAQ
 
